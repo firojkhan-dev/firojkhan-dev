@@ -77,14 +77,15 @@ A Flask-based application for managing business income and expenses.
 
 **Technologies:** Python • Flask • SQLite • ReportLab
 
-## 📈 GitHub Statistics
+## 📈 GitHub Activity
 
-<div align="center">
-  <img height="165" src="https://ghstats.dev/api/card?username=firojkhan-dev&theme=tokyonight" alt="GitHub statistics" />
-  <img height="165" src="https://ghstats.dev/api/langs?username=firojkhan-dev&layout=compact&max_langs=6&theme=tokyonight" alt="Most used languages" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=firojkhan-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=firojkhan-dev&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+    width="100%"
+  />
+</p>
 
 ## 🎯 Current Focus
 
@@ -95,9 +96,8 @@ A Flask-based application for managing business income and expenses.
 
 ## 🤝 Connect
 
-<div align="center">
-  <a href="https://github.com/firojkhan-dev">
-    <img src="https://img.shields.io/badge/GitHub-firojkhan--dev-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <p><i>Learning • Building • Improving</i></p>
-</div>
+- **GitHub:** [@firojkhan-dev](https://github.com/firojkhan-dev)
+
+---
+
+<p align="center"><i>Learning • Building • Improving</i></p>
