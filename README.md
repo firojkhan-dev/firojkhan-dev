@@ -1,24 +1,30 @@
-# Hi, I'm Firoj Khan 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/firojkhan-dev/firojkhan-dev/main/profile-banner.svg" alt="Firoj Khan - Aspiring Software Developer" width="100%" />
+</div>
+
+<div align="center">
 
 ### Aspiring Software Developer | BCA Student
 
-I enjoy building practical projects, solving programming problems, and continuously improving my development skills.
+Building projects • Practicing Java & Python • Learning DSA
 
 [![GitHub followers](https://img.shields.io/github/followers/firojkhan-dev?style=for-the-badge&logo=github&label=Followers)](https://github.com/firojkhan-dev)
 [![Profile views](https://komarev.com/ghpvc/?username=firojkhan-dev&style=for-the-badge&color=blue)](https://github.com/firojkhan-dev)
 
-## 🚀 About Me
+</div>
 
-- 🎓 BCA student
-- ☕ Practicing Java programming and object-oriented concepts
-- 🐍 Practicing Python programming
-- 🧩 Learning DSA
-- 🌐 Building web applications with Django and Flask
-- 🗄️ Learning SQL and database management
-- 🧠 Improving problem-solving and logical thinking
-- 🎯 Working towards becoming a professional software developer
+---
 
-## 🛠️ Tech Stack & Learning
+## 👨‍💻 About Me
+
+- 🎓 BCA student and aspiring software developer
+- ☕ Practicing **Java** and object-oriented programming
+- 🐍 Learning and building with **Python**
+- 🧩 Practicing **DSA** and problem-solving
+- 🌐 Developing web apps using **Django** and **Flask**
+- 🗄️ Working with SQL and databases
+
+## 🛠️ Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
@@ -32,40 +38,54 @@ I enjoy building practical projects, solving programming problems, and continuou
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
-- **[MySchool](https://github.com/firojkhan-dev/MySchool)** — A school website project built with HTML, CSS, and JavaScript.
-- **[AashMohd](https://github.com/firojkhan-dev/AashMohd)** — A Flask and SQLite-based business income and expense tracking application.
+### 🏫 [MySchool](https://github.com/firojkhan-dev/MySchool)
+A school website interface built with HTML, CSS, and JavaScript.
 
-## 📊 GitHub Statistics
+- School information, navigation, notices, and events
+- Live digital clock
+- Front-end web development practice
 
-<p align="center">
-  <img src="https://ghstats.dev/api/card?username=firojkhan-dev&theme=tokyonight" alt="Firoj Khan GitHub statistics" />
-</p>
+**Stack:** HTML • CSS • JavaScript
 
-<p align="center">
-  <img src="https://ghstats.dev/api/langs?username=firojkhan-dev&layout=compact&max_langs=6&theme=tokyonight" alt="Most used languages in public repositories" />
-</p>
+### 📒 [AashMohd — Business Ledger](https://github.com/firojkhan-dev/AashMohd)
+A Flask application for tracking business income and expenses.
 
-<p align="center">
+- Login-protected dashboard
+- Add, edit, delete, search, and filter transactions
+- Income, expense, and balance summaries
+- PDF transaction reports
+
+**Stack:** Python • Flask • SQLite • ReportLab
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://ghstats.dev/api/card?username=firojkhan-dev&theme=tokyonight" alt="GitHub statistics" />
+  <img height="165" src="https://ghstats.dev/api/langs?username=firojkhan-dev&layout=compact&max_langs=6&theme=tokyonight" alt="Most used languages" />
+  <br/>
   <img src="https://streak-stats.demolab.com/?user=firojkhan-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
+</div>
 
 ## 🎯 Current Focus
 
-- Strengthening Java and Python programming fundamentals
-- Learning DSA concepts and practicing coding problems
-- Improving logical thinking and problem-solving
-- Building useful web development projects
-- Learning professional Git and GitHub workflows
+- Strengthening Java and Python fundamentals
+- Practicing DSA and coding problems
+- Building useful web applications
+- Improving problem-solving skills
 
-## 🤝 Connect
+## 🤝 Connect With Me
 
 - GitHub: [@firojkhan-dev](https://github.com/firojkhan-dev)
 
 ---
 
-⭐ *Learning • Building • Improving — One Step at a Time*
+<div align="center">
+
+⭐ **Learning • Building • Improving — One Step at a Time**
+
+</div>
