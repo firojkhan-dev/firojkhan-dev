@@ -10,17 +10,18 @@ I enjoy building practical projects, solving programming problems, and continuou
 ## 🚀 About Me
 
 - 🎓 BCA student
-- 💻 Practicing Java and Python
+- 🐍 Practicing Python programming
+- 🧩 Learning Data Structures & Algorithms (DSA)
 - 🌐 Building web applications with Django and Flask
 - 🗄️ Learning SQL and database management
-- 🧠 Improving problem-solving and programming fundamentals
+- 🧠 Improving problem-solving and logical thinking
 - 🎯 Working towards becoming a professional software developer
 
-## 🛠️ Tech Stack
+## 🛠️ Tech Stack & Learning
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/DSA-Data_Structures_%26_Algorithms-6A5ACD?style=for-the-badge" alt="Data Structures and Algorithms" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -53,8 +54,9 @@ I enjoy building practical projects, solving programming problems, and continuou
 
 ## 🎯 Current Focus
 
-- Strengthening Java and Python fundamentals
-- Practicing data structures and problem-solving
+- Strengthening Python programming fundamentals
+- Learning DSA concepts and practicing coding problems
+- Improving logical thinking and problem-solving
 - Building useful web development projects
 - Learning professional Git and GitHub workflows
 
