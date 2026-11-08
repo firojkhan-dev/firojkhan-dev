@@ -2,7 +2,10 @@
 
 ### Aspiring Software Developer | BCA Student
 
-I am a software development learner who enjoys building practical projects, solving programming problems, and continuously improving my skills.
+I enjoy building practical projects, solving programming problems, and continuously improving my development skills.
+
+[![GitHub followers](https://img.shields.io/github/followers/firojkhan-dev?style=for-the-badge&logo=github&label=Followers)](https://github.com/firojkhan-dev)
+[![Profile views](https://komarev.com/ghpvc/?username=firojkhan-dev&style=for-the-badge&color=blue)](https://github.com/firojkhan-dev)
 
 ## 🚀 About Me
 
@@ -13,17 +16,40 @@ I am a software development learner who enjoys building practical projects, solv
 - 🧠 Improving problem-solving and programming fundamentals
 - 🎯 Working towards becoming a professional software developer
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
-**Languages:** Java, Python, JavaScript  
-**Web:** HTML, CSS, Django, Flask  
-**Database:** SQL, SQLite  
-**Tools:** Git, GitHub, VS Code
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Visual Studio Code" />
+</p>
 
 ## 📌 Featured Projects
 
 - **[MySchool](https://github.com/firojkhan-dev/MySchool)** — A school website project built with HTML, CSS, and JavaScript.
 - **[AashMohd](https://github.com/firojkhan-dev/AashMohd)** — A Flask and SQLite-based business income and expense tracking application.
+
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://ghstats.dev/api/card?username=firojkhan-dev&theme=tokyonight" alt="Firoj Khan GitHub statistics" />
+</p>
+
+<p align="center">
+  <img src="https://ghstats.dev/api/langs?username=firojkhan-dev&layout=compact&max_langs=6&theme=tokyonight" alt="Most used languages in public repositories" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=firojkhan-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
 
 ## 🎯 Current Focus
 
