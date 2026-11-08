@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Firoj Khan 👋
 
-<!--
-**firojkhan-dev/firojkhan-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Developer | BCA Student
 
-Here are some ideas to get you started:
+I am a software development learner who enjoys building practical projects, solving programming problems, and continuously improving my skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- 🎓 BCA student
+- 💻 Practicing Java and Python
+- 🌐 Building web applications with Django and Flask
+- 🗄️ Learning SQL and database management
+- 🧠 Improving problem-solving and programming fundamentals
+- 🎯 Working towards becoming a professional software developer
+
+## 🛠️ Technologies & Tools
+
+**Languages:** Java, Python, JavaScript  
+**Web:** HTML, CSS, Django, Flask  
+**Database:** SQL, SQLite  
+**Tools:** Git, GitHub, VS Code
+
+## 📌 Featured Projects
+
+- **[MySchool](https://github.com/firojkhan-dev/MySchool)** — A school website project built with HTML, CSS, and JavaScript.
+- **[AashMohd](https://github.com/firojkhan-dev/AashMohd)** — A Flask and SQLite-based business income and expense tracking application.
+
+## 🎯 Current Focus
+
+- Strengthening Java and Python fundamentals
+- Practicing data structures and problem-solving
+- Building useful web development projects
+- Learning professional Git and GitHub workflows
+
+## 🤝 Connect
+
+- GitHub: [@firojkhan-dev](https://github.com/firojkhan-dev)
+
+---
+
+⭐ *Learning • Building • Improving — One Step at a Time*
