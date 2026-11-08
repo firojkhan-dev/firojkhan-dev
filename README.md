@@ -18,23 +18,40 @@ Building projects • Practicing Java & Python • Learning DSA
 ## 👨‍💻 About Me
 
 - 🎓 BCA student and aspiring software developer
-- ☕ Practicing **Java** and object-oriented programming
-- 🐍 Learning and building with **Python**
-- 🧩 Practicing **DSA** and problem-solving
-- 🌐 Developing web apps using **Django** and **Flask**
-- 🗄️ Working with SQL and databases
+- ☕ **Java** — object-oriented programming and interview practice
+- 🐍 **Python** — building applications with Flask and Django
+- 🔵 **C** — programming fundamentals
+- 🧩 **DSA** — data structures, algorithms, and problem-solving
+- 🌐 Web development with HTML, CSS, and JavaScript
+- 🗄️ SQL and relational databases
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
+**Programming Languages**  
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge" alt="DSA" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
+</p>
+
+**Core Concepts**  
+<p>
+  <img src="https://img.shields.io/badge/DSA-6A5ACD?style=for-the-badge" alt="Data Structures and Algorithms" />
+  <img src="https://img.shields.io/badge/OOP-44546A?style=for-the-badge" alt="Object-Oriented Programming" />
+</p>
+
+**Web Development & Frameworks**  
+<p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+</p>
+
+**Database & Tools**  
+<p>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
@@ -74,6 +91,7 @@ A Flask application for tracking business income and expenses.
 ## 🎯 Current Focus
 
 - Strengthening Java and Python fundamentals
+- Revising C programming concepts
 - Practicing DSA and coding problems
 - Building useful web applications
 - Improving problem-solving skills
