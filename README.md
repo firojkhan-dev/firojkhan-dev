@@ -3,83 +3,70 @@
 
   <h2>Firoj Khan</h2>
   <p><strong>Aspiring Software Developer</strong> · BCA Student</p>
-  <p>Building practical web applications and learning by turning ideas into working projects.</p>
-
-  <a href="https://github.com/firojkhan-dev">
-    <img src="https://img.shields.io/badge/GitHub-firojkhan--dev-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=firojkhan-dev&style=for-the-badge&color=blue" alt="Profile views" />
+  <p>Focused on backend development, practical projects, and continuous learning.</p>
+  <a href="https://github.com/firojkhan-dev"><img src="https://img.shields.io/badge/GitHub-firojkhan--dev-181717?style=flat-square&logo=github" alt="GitHub" /></a>
 </div>
 
 ---
 
-## About Me
+## Professional Summary
 
-I'm a BCA student focused on becoming a software developer. I enjoy building web applications, understanding how things work behind the scenes, and improving my coding skills through consistent practice.
+I'm a Bachelor of Computer Applications (BCA) student working towards a career in software development. I enjoy solving problems, understanding application logic, and building useful web applications with a focus on clean, maintainable code.
 
-- 🌱 Currently strengthening my skills in **Python, Django, Java, and SQL**.
-- 🧩 Practising **Object-Oriented Programming** and **Data Structures & Algorithms**.
-- 🔧 Interested in backend development, databases, and building useful applications.
-- 📚 Believe in learning fundamentals, writing maintainable code, and documenting projects.
+- **Primary focus:** Python, Django, backend development
+- **Also learning:** Java, SQL, Data Structures & Algorithms
+- **Interested in:** RESTful application design, databases, authentication, and software engineering practices
+- **Approach:** Learn the fundamentals, build real projects, test features, and document the work
 
-## Tech Stack
+## Technical Skills
 
-**Languages**
+| Category | Technologies |
+|---|---|
+| Programming | Python, Java, C |
+| Backend | Django |
+| Frontend | HTML5, CSS3, JavaScript |
+| Databases | MySQL, SQLite, SQL |
+| Tools | Git, GitHub, VS Code |
+| Core concepts | OOP, DSA, authentication, CRUD |
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-
-**Web Development**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-
-**Database & Tools**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
-
-## Featured Project
+## Selected Project
 
 ### [H.H. Inter College Website](https://github.com/firojkhan-dev/hh-inter-college)
 
-A college website built with Django to present institutional information and support everyday enquiry and staff workflows.
+A Django-based website designed to publish college information and support enquiry workflows and staff operations.
 
-- Public pages for college information.
+**Key features**
+- Public-facing college information pages.
 - Admission and contact enquiry forms.
-- Staff dashboard protected with Django authentication and permissions.
-- Teacher, notice, and gallery content managed through Django Admin.
-- Authentication-related automated tests.
+- Staff dashboard protected by Django authentication and permissions.
+- Dynamic teacher, notice, and gallery content managed through Django Admin.
+- Automated tests for authentication-related functionality.
 
-**Built with:** Python · Django · MySQL · HTML · CSS · JavaScript
+**Technology:** Python · Django · MySQL · HTML · CSS · JavaScript
 
-[View repository and setup instructions →](https://github.com/firojkhan-dev/hh-inter-college)
+[Explore the source code, setup guide, and documentation →](https://github.com/firojkhan-dev/hh-inter-college)
 
-## What I'm Working On
+## Current Focus
 
-- Improving Python and Java programming fundamentals.
-- Practising DSA and problem-solving regularly.
-- Learning secure, maintainable Django development.
-- Building and documenting complete projects.
+- Strengthening Python, Java, and database fundamentals.
+- Practising Data Structures & Algorithms and problem-solving.
+- Improving Django application structure, security, and testing.
+- Building projects with clear documentation and maintainable code.
 
 ## GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=firojkhan-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="100%" />
+  <img src="https://streak-stats.demolab.com/?user=firojkhan-dev&theme=transparent&hide_border=true" alt="GitHub contribution streak" />
 </div>
 
-## Let's Connect
+## Connect
 
-- GitHub: [@firojkhan-dev](https://github.com/firojkhan-dev)
+<div align="center">
+  <a href="https://github.com/firojkhan-dev"><img src="https://img.shields.io/badge/GitHub-View%20my%20work-181717?style=for-the-badge&logo=github" alt="View GitHub profile" /></a>
+</div>
 
 ---
 
 <div align="center">
-  <i>Learn consistently · Build thoughtfully · Keep improving</i>
+  <sub>Build with purpose. Learn every day. Improve through practice.</sub>
 </div>
