@@ -1,69 +1,73 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/firojkhan-dev/firojkhan-dev/main/profile-banner.svg" alt="Firoj Khan - Aspiring Software Developer" width="100%" />
+  <img src="https://raw.githubusercontent.com/firojkhan-dev/firojkhan-dev/main/profile-banner.svg" alt="Firoj Khan — Software Developer" width="100%" />
+
   <h3>Software Developer | BCA Student</h3>
-  <p>Building practical applications • Solving problems • Learning every day</p>
-  <a href="https://github.com/firojkhan-dev"><img src="https://img.shields.io/github/followers/firojkhan-dev?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
-  <img src="https://komarev.com/ghpvc/?username=firojkhan-dev&style=for-the-badge&color=blue" alt="Profile views" />
+  <p>Building useful web applications with Python and Django.</p>
+
+  <a href="https://github.com/firojkhan-dev">
+    <img src="https://img.shields.io/github/followers/firojkhan-dev?style=flat&logo=github&label=Followers" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=firojkhan-dev&style=flat&label=Profile%20views" alt="Profile views" />
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About
 
-- 🎓 BCA student focused on software development.
-- 🐍 Building practical web applications with **Python and Django**.
-- ☕ Practicing **Java**, object-oriented programming, and problem-solving.
-- 🔵 Familiar with **C programming** and core programming concepts.
-- 🧩 Improving problem-solving through **Data Structures & Algorithms**.
-- 🗄️ Working with SQL and relational databases.
+I am a BCA student interested in software development and building practical web applications. I enjoy learning programming fundamentals, working with backend technologies, and improving my problem-solving skills through hands-on projects.
 
-## 🧰 Technical Skills
+- 🎓 Pursuing Bachelor of Computer Applications (BCA).
+- 🐍 Developing web applications with Python and Django.
+- ☕ Practising Java, object-oriented programming, and core programming concepts.
+- 🧠 Learning Data Structures and Algorithms.
+- 🛠️ Interested in writing clean, understandable, and maintainable code.
 
-**Programming:** Java · Python · C
+## Technical Skills
 
-**Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming
+| Area | Technologies |
+|---|---|
+| Programming | Python, Java, C |
+| Web | Django, HTML, CSS, JavaScript |
+| Databases | SQL, SQLite, MySQL |
+| Tools | Git, GitHub, VS Code |
+| Fundamentals | OOP, Data Structures & Algorithms |
 
-**Web Development:** HTML · CSS · JavaScript · Django
+## Featured Projects
 
-**Databases & Tools:** SQL · SQLite · MySQL · Git · GitHub · VS Code
+### [H.H. Inter College](https://github.com/firojkhan-dev/hh-inter-college)
+A Django-based college website with public information pages, admission and contact enquiries, and a staff dashboard.
 
-## 🚀 Featured Projects
+- Staff access controlled through Django authentication and permissions.
+- Dynamic teacher, notice, and gallery content managed through Django Admin.
+- Automated tests for the website's authentication features.
 
-### 🏫 [H.H. Inter College](https://github.com/firojkhan-dev/hh-inter-college)
-A Django-based college website with public information pages, admission enquiries, contact forms, and a staff-only dashboard.
+**Built with:** Python · Django · MySQL · HTML · CSS · JavaScript
 
-- Staff authentication using Django's built-in authentication and sessions
-- College content models for teachers, notices, and gallery items
-- Admission and contact enquiry forms
-- MySQL configuration and automated authentication tests
+### [MySchool Website](https://github.com/firojkhan-dev/MySchool)
+A front-end school website project that brings school information, notices, events, and a gallery into one interface.
 
-**Technologies:** Python · Django · MySQL · HTML · CSS · JavaScript
+- Navigation and content sections for a school website.
+- JavaScript-powered live digital clock.
 
-### 🏫 [MySchool](https://github.com/firojkhan-dev/MySchool)
-A front-end school website project built with HTML, CSS, and JavaScript.
+**Built with:** HTML · CSS · JavaScript
 
-- School information, notices, events, and gallery sections
-- Interactive digital clock
+## Current Learning Goals
 
-**Technologies:** HTML · CSS · JavaScript
+- Strengthen Python and Java fundamentals.
+- Practise Data Structures & Algorithms.
+- Improve Django development and application security.
+- Build, test, and document complete web projects.
 
-## 📈 GitHub Activity
+## GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=firojkhan-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" width="100%" />
 </p>
 
-## 🎯 Current Focus
+## Connect
 
-- Strengthening Java and Python fundamentals
-- Practicing DSA and interview-style problems
-- Improving Django application security
-- Building and documenting useful web applications
-
-## 🤝 Connect
-
-- **GitHub:** [@firojkhan-dev](https://github.com/firojkhan-dev)
+- GitHub: [@firojkhan-dev](https://github.com/firojkhan-dev)
 
 ---
 
-<p align="center"><i>Learning • Building • Improving</i></p>
+<p align="center"><i>Learn consistently. Build practically. Improve every day.</i></p>
