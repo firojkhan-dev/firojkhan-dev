@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 BCA student focused on software development.
-- 🐍 Building practical web applications with **Python, Django, and Flask**.
+- 🐍 Building practical web applications with **Python and Django**.
 - ☕ Practicing **Java**, object-oriented programming, and problem-solving.
 - 🔵 Familiar with **C programming** and core programming concepts.
 - 🧩 Improving problem-solving through **Data Structures & Algorithms**.
@@ -23,9 +23,9 @@
 
 **Core Concepts:** Data Structures & Algorithms · Object-Oriented Programming
 
-**Web Development:** HTML · CSS · JavaScript · Django · Flask
+**Web Development:** HTML · CSS · JavaScript · Django
 
-**Databases & Tools:** SQL · SQLite · Git · GitHub · VS Code
+**Databases & Tools:** SQL · SQLite · MySQL · Git · GitHub · VS Code
 
 ## 🚀 Featured Projects
 
@@ -38,15 +38,6 @@ A Django-based college website with public information pages, admission enquirie
 - MySQL configuration and automated authentication tests
 
 **Technologies:** Python · Django · MySQL · HTML · CSS · JavaScript
-
-### 📒 [Peanut Business Ledger](https://github.com/firojkhan-dev/AashMohd)
-A Flask application for recording business income and expenses and generating PDF reports.
-
-- Transaction management, search, and filtering
-- Income, expense, and balance summaries
-- PDF ledger report generation
-
-**Technologies:** Python · Flask · SQLite · ReportLab
 
 ### 🏫 [MySchool](https://github.com/firojkhan-dev/MySchool)
 A front-end school website project built with HTML, CSS, and JavaScript.
@@ -66,7 +57,7 @@ A front-end school website project built with HTML, CSS, and JavaScript.
 
 - Strengthening Java and Python fundamentals
 - Practicing DSA and interview-style problems
-- Improving Django and Flask application security
+- Improving Django application security
 - Building and documenting useful web applications
 
 ## 🤝 Connect
