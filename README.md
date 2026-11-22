@@ -32,7 +32,7 @@ I am a BCA student interested in software development and building practical web
 | Tools | Git, GitHub, VS Code |
 | Fundamentals | OOP, Data Structures & Algorithms |
 
-## Featured Projects
+## Featured Project
 
 ### [H.H. Inter College](https://github.com/firojkhan-dev/hh-inter-college)
 A Django-based college website with public information pages, admission and contact enquiries, and a staff dashboard.
@@ -42,14 +42,6 @@ A Django-based college website with public information pages, admission and cont
 - Automated tests for the website's authentication features.
 
 **Built with:** Python · Django · MySQL · HTML · CSS · JavaScript
-
-### [MySchool Website](https://github.com/firojkhan-dev/MySchool)
-A front-end school website project that brings school information, notices, events, and a gallery into one interface.
-
-- Navigation and content sections for a school website.
-- JavaScript-powered live digital clock.
-
-**Built with:** HTML · CSS · JavaScript
 
 ## Current Learning Goals
 
