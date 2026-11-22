@@ -1,42 +1,37 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/firojkhan-dev/firojkhan-dev/main/profile-banner.svg" alt="Firoj Khan - Aspiring Software Developer" width="100%" />
-  <h3>Software Developer | BCA Student</h3>
-  <p>Building practical applications • Solving problems • Learning every day</p>
-  <a href="https://github.com/firojkhan-dev">
-    <img src="https://img.shields.io/github/followers/firojkhan-dev?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=firojkhan-dev&style=for-the-badge&color=blue" alt="Profile views" />
+  <img src="https://raw.githubusercontent.com/firojkhan-dev/firojkhan-dev/main/profile-banner.svg" alt="Firoj Khan — Aspiring Software Developer" width="100%" />
+  <h3> BCA Student · Aspiring Software Developer</h3>
+  <p>Building practical web applications · Learning by doing · Improving every day</p>
+  <p>
+    <a href="https://github.com/firojkhan-dev"><img src="https://img.shields.io/github/followers/firojkhan-dev?style=flat&logo=github&label=Followers" alt="GitHub followers" /></a>
+    <img src="https://komarev.com/ghpvc/?username=firojkhan-dev&style=flat&color=0e75b6" alt="Profile views" />
+  </p>
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
-- 🎓 BCA student focused on software development.
-- ☕ Practicing **Java**, object-oriented programming, and coding problems.
-- 🐍 Building applications with **Python**, **Django**, and **Flask**.
-- 🔵 Familiar with **C programming** and core programming concepts.
-- 🧩 Improving problem-solving through **Data Structures & Algorithms**.
-- 🗄️ Working with SQL and relational databases.
+Hi, I'm **Firoj Khan**, a BCA student working towards becoming a software developer. I enjoy learning programming fundamentals and building useful applications.
 
-## 🧰 Technical Skills
+- 🎓 Studying Bachelor of Computer Applications (BCA).
+- 🐍 Building web applications with **Python** and **Django**.
+- ☕ Learning and practising **Java**, OOP, and problem-solving.
+- 🌐 Working with **HTML, CSS, and JavaScript** for web interfaces.
+- 🗄️ Learning relational databases and SQL.
+- 🎯 Focused on writing clearer code and building real-world projects.
 
-**Programming Languages**
+## Tech Stack
+
+**Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C_Programming-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
 </p>
 
-**Core Concepts**
-
-<p>
-  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-6A5ACD?style=flat-square" alt="Data Structures and Algorithms" />
-  <img src="https://img.shields.io/badge/Object_Oriented_Programming-44546A?style=flat-square" alt="Object-Oriented Programming" />
-</p>
-
-**Web Development & Frameworks**
+**Web Development**
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -46,58 +41,52 @@
   <img src="https://img.shields.io/badge/Flask-333333?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
 </p>
 
-**Databases & Developer Tools**
+**Databases & Tools**
 
 <p>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQLite" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-## 🚀 Featured Projects
+## Featured Project
 
-### 🏫 [MySchool](https://github.com/firojkhan-dev/MySchool)
-A responsive school website interface built with HTML, CSS, and JavaScript.
+### 🏫 [H.H. Inter College Website](https://github.com/firojkhan-dev/hh-inter-college)
 
-- School information, navigation, notices, and events
-- Live digital clock
-- Front-end development project
+A Django-powered website for H.H. Inter College, built to present college information and manage website content.
 
-**Technologies:** HTML • CSS • JavaScript
+**Highlights**
+- Dynamic teacher, notice, and gallery content managed through Django Admin.
+- Public contact and admission enquiry forms.
+- Staff sign-in and a protected staff dashboard.
+- Role-based access using Django staff and superuser permissions.
 
-### 📒 [AashMohd — Business Ledger](https://github.com/firojkhan-dev/AashMohd)
-A Flask-based application for managing business income and expenses.
+**Built with:** Python · Django · MySQL · HTML · CSS · JavaScript
 
-- Login-protected dashboard
-- Create, edit, delete, search, and filter transactions
-- Income, expense, and balance summaries
-- PDF transaction reports
+[View repository and setup instructions →](https://github.com/firojkhan-dev/hh-inter-college)
 
-**Technologies:** Python • Flask • SQLite • ReportLab
+## Currently Learning
 
-## 📈 GitHub Activity
+- Strengthening Python and Django development.
+- Practising Java, object-oriented programming, and DSA.
+- Improving SQL and database concepts.
+- Building and testing complete web applications.
+
+## GitHub Activity
 
 <p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=firojkhan-dev&theme=tokyonight&hide_border=true"
-    alt="GitHub contribution streak"
-    width="100%"
-  />
+  <img src="https://streak-stats.demolab.com/?user=firojkhan-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 </p>
 
-## 🎯 Current Focus
-
-- Strengthening Java and Python fundamentals
-- Revising C programming
-- Practicing DSA and interview-style problems
-- Building useful web applications
-
-## 🤝 Connect
+## Connect
 
 - **GitHub:** [@firojkhan-dev](https://github.com/firojkhan-dev)
 
 ---
 
-<p align="center"><i>Learning • Building • Improving</i></p>
+<div align="center">
+  <i>Learn consistently. Build thoughtfully. Keep improving.</i>
+</div>
